@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <Lektion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Sprachen>
     <string>Hiragana</string>
@@ -234,7 +234,6 @@
       </Vokabeln>
       <Vorschau>が ga    げ ge    ぐ gi    ご go    ぐ gu</Vorschau>
     </Kartei>
-
     <Kartei>
       <Vokabeln>
         <Vokabel>
@@ -1203,5 +1202,6 @@
       <Vorschau>きゃ kya    きょ kyo    きゅ kyu</Vorschau>
     </Kartei>
   </Karteien>
+  <NichtAkzeptierteSprachen />
   <Name>Hiragana</Name>
 </Lektion>

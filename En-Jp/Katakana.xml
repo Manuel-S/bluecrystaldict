@@ -1,8 +1,8 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <Lektion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Sprachen>
-    <string>katakana</string>
-    <string>englisch</string>
+    <string>Katakana</string>
+    <string>English</string>
   </Sprachen>
   <Karteien>
     <Kartei>
@@ -1463,5 +1463,6 @@
       <Vorschau>ウィ (wi) ウー (wu) ウェ (we) ウォ (wo)</Vorschau>
     </Kartei>
   </Karteien>
+  <NichtAkzeptierteSprachen />
   <Name>Katakana</Name>
 </Lektion>
