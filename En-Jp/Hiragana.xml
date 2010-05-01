@@ -81,7 +81,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>あ a      え e      い i      お o      う u</Vorschau>
+      <Vorschau>あ a      い i      う u      え e      お o</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -157,7 +157,7 @@
           <Bemerkung>asdf</Bemerkung>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>か ka    け ke    き ki    こ ko    く ku</Vorschau>
+      <Vorschau>か ka    き ki    く ku    け ke    こ ko</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -232,7 +232,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>が ga    げ ge    ぐ gi    ご go    ぐ gu</Vorschau>
+      <Vorschau>が ga    ぐ gi    ぐ gu    げ ge    ご go</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -307,7 +307,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>さ sa    せ se    し shi   そ so   す su</Vorschau>
+      <Vorschau>さ sa    し shi   す su    せ se   そ so</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -388,7 +388,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>ざ za    ぜ ze    じ ji   ぞ zo   ず zu</Vorschau>
+      <Vorschau>ざ za    じ ji   ず zu    ぜ ze   ぞ zo</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -463,7 +463,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>た ta    て te    ち chi    と to    つ tsu</Vorschau>
+      <Vorschau>た ta    ち chi    つ tsu    て te    と to</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -546,7 +546,7 @@
           <Bemerkung>Normally ず (zu) is used</Bemerkung>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>だ da    で de    ぢ ji    ど do    づ zu</Vorschau>
+      <Vorschau>だ da    ぢ ji    づ zu    で de    ど do</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -621,7 +621,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>な na    ね ne    に ni    の no    ぬ nu</Vorschau>
+      <Vorschau>な na    に ni    ぬ nu    ね ne    の no</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -698,7 +698,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>は ha    へ he    ひ hi    ほ ho    ふ fu</Vorschau>
+      <Vorschau>は ha    ひ hi    ふ fu    へ he    ほ ho</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -773,7 +773,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>ば ba    べ be    び bi    ぼ bo    ぶ bu</Vorschau>
+      <Vorschau>ば ba    び bi    ぶ bu    べ be    ぼ bo</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -848,7 +848,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>ぱ pa    ぺ pe    ぴ pi    ぽ po    ぷ pu</Vorschau>
+      <Vorschau>ぱ pa    ぴ pi    ぷ pu    ぺ pe    ぽ po</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -923,7 +923,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>ら ra    れ re    り ri    ろ ro    る ru</Vorschau>
+      <Vorschau>ら ra    り ri    る ru    れ re    ろ ro</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -998,7 +998,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>ま ma    め me    み mi    も mo    む mu</Vorschau>
+      <Vorschau>ま ma    み mi    む mu    め me    も mo</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -1045,7 +1045,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>や ya            よ yo            ゆ yu</Vorschau>
+      <Vorschau>や ya            ゆ yu            よ yo</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
@@ -1199,7 +1199,7 @@
           </Sprachen>
         </Vokabel>
       </Vokabeln>
-      <Vorschau>きゃ kya    きょ kyo    きゅ kyu</Vorschau>
+      <Vorschau>きゃ kya    きゅ kyu    きょ kyo</Vorschau>
     </Kartei>
   </Karteien>
   <NichtAkzeptierteSprachen />
