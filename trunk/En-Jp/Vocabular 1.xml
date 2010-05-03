@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Lektion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Sprachen>
-    <string>Hiragana</string>
+    <string>Kana</string>
     <string>Romaji</string>
     <string>English</string>
   </Sprachen>
@@ -988,7 +988,7 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>らいおん</Schreibweise>
+                <Schreibweise>ライオン</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
@@ -1145,7 +1145,7 @@
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
-          <Bemerkung>(be- only inanimate objects)</Bemerkung>
+          <Bemerkung>(only inanimate objects)</Bemerkung>
         </Vokabel>
         <Vokabel>
           <Sprachen>
@@ -1287,6 +1287,9 @@
                 <Schreibweise>flower</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
+                <Schreibweise>nose</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
                 <Schreibweise>flowers</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
@@ -1383,7 +1386,7 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>ぱん</Schreibweise>
+                <Schreibweise>パン</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
@@ -1394,6 +1397,66 @@
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>bread</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>きのう</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>kinou</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>yesterday</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>きょう</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>kyou</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>today</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>あした</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ashita</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>tomorrow</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -1514,37 +1577,17 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>かだい</Schreibweise>
+                <Schreibweise>すぎる</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>kadai</Schreibweise>
+                <Schreibweise>sugiru</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>too much</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-          </Sprachen>
-          <Bemerkung />
-        </Vokabel>
-        <Vokabel>
-          <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise />
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise />
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise />
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -1597,12 +1640,12 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>ある</Schreibweise>
+                <Schreibweise>いる</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>aru</Schreibweise>
+                <Schreibweise>iru</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
@@ -1614,7 +1657,7 @@
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
-          <Bemerkung />
+          <Bemerkung>(people, animals)</Bemerkung>
         </Vokabel>
         <Vokabel>
           <Sprachen>
@@ -1637,6 +1680,247 @@
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>how much</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>くや</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>kuya</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>room</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>トイレ</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>おてあらい</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>toire</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>toilet</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>かいしゃ</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>kaisha</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>work</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>くし</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>kushi</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>shoes</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ワイン</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>wain</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>wine</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>たばこ</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>tabako</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>cigarette</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>cigarettes</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>tobacco</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ちか</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>chika</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>basement</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>いくら</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ikusa</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>how much</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>じゃ</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ja</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>well then</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>in that case</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>おきる</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>okiru</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>to wake up</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>to get up</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ねる</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>neru</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>to lie down</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>to go to sleep</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>to go to bed</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -1785,6 +2069,9 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
+                <Schreibweise>white</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
                 <Schreibweise>castle</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
@@ -1896,6 +2183,9 @@
               <TeilVokabel>
                 <Schreibweise>box lunch</Schreibweise>
               </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>lunch box</Schreibweise>
+              </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
@@ -1915,29 +2205,6 @@
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>festival</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-          </Sprachen>
-          <Bemerkung />
-        </Vokabel>
-        <Vokabel>
-          <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>れい</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>rei</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>thanking</Schreibweise>
-              </TeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>gratitude</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2050,6 +2317,9 @@
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>cost</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>worth</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2320,12 +2590,18 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>なん...</Schreibweise>
+                <Schreibweise>なんこ...</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>いくつ...</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>nan...</Schreibweise>
+                <Schreibweise>nanko...</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ikutsu...</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
