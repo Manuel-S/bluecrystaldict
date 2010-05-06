@@ -559,6 +559,32 @@
           </Sprachen>
           <Bemerkung />
         </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>きみ</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>あなた</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>kimi</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>anata</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>you</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung>to children</Bemerkung>
+        </Vokabel>
       </Vokabeln>
       <Vorschau>Persons</Vorschau>
     </Kartei>
