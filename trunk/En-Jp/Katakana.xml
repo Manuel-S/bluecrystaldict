@@ -2,7 +2,7 @@
 <Lektion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Sprachen>
     <string>Katakana</string>
-    <string>English</string>
+    <string>Romaji</string>
   </Sprachen>
   <Karteien>
     <Kartei>
