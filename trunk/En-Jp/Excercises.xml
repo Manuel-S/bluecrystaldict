@@ -19,6 +19,9 @@
               <TeilVokabel>
                 <Schreibweise>かさです</Schreibweise>
               </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>かさ</Schreibweise>
+              </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
@@ -35,6 +38,9 @@
               <TeilVokabel>
                 <Schreibweise>ぼうしです</Schreibweise>
               </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ぼうし</Schreibweise>
+              </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
@@ -43,7 +49,7 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>なんかいひとですか</Schreibweise>
+                <Schreibweise>なんにんですか</Schreibweise>
                 <BildUri>.\Data\Images\Question\2 men 1 book.jpg</BildUri>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
@@ -51,6 +57,9 @@
               <TeilVokabel>
                 <Schreibweise>ふたりです</Schreibweise>
               </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ふたり</Schreibweise>
+              </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
@@ -59,7 +68,7 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>ここはなにをありますか</Schreibweise>
+                <Schreibweise>ここはなにがいますか</Schreibweise>
                 <BildUri>.\Data\Images\Question\2 umbrellas.jpg</BildUri>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
@@ -70,6 +79,12 @@
               <TeilVokabel>
                 <Schreibweise>いぬとおおんあのひとです</Schreibweise>
               </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>いぬとおんあ</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>おんあといぬ</Schreibweise>
+              </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
@@ -78,13 +93,19 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>ここはなにをどおぶつですか</Schreibweise>
+                <Schreibweise>ここにはなんのどうぶつがみえますか</Schreibweise>
                 <BildUri>.\Data\Images\Question\3 horses.jpg</BildUri>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>うまです</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>うま</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>うまがみえます</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
