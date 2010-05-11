@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<Lektion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sprachen>
+    <string>Question</string>
+    <string>Answer</string>
+  </Sprachen>
+  <Karteien>
+    <Kartei>
+      <Vokabeln>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>なにですか</Schreibweise>
+                <BildUri>.\Data\Images\Question\1 umbrella.jpg</BildUri>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>かさです</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>なにですか</Schreibweise>
+                <BildUri>.\Data\Images\Question\hat.jpg</BildUri>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ぼうしです</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>なんかいひとですか</Schreibweise>
+                <BildUri>.\Data\Images\Question\2 men 1 book.jpg</BildUri>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ふたりです</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ここはなにをありますか</Schreibweise>
+                <BildUri>.\Data\Images\Question\2 umbrellas.jpg</BildUri>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>おとこのひとといぬです</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>いぬとおとこのひとです</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ここはなにをどおぶつですか</Schreibweise>
+                <BildUri>.\Data\Images\Question\3 horses.jpg</BildUri>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>うまです</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+      </Vokabeln>
+      <Vorschau>Pictures 1</Vorschau>
+    </Kartei>
+  </Karteien>
+  <NichtAkzeptierteSprachen>
+    <ArrayOfInt />
+    <ArrayOfInt>
+      <int>0</int>
+      <int>1</int>
+    </ArrayOfInt>
+  </NichtAkzeptierteSprachen>
+  <Name>Excercises</Name>
+</Lektion>
