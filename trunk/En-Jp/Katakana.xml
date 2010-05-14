@@ -220,7 +220,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>so</Schreibweise>
+                <Schreibweise>se</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -239,6 +239,7 @@
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
+          <Bemerkung />
         </Vokabel>
       </Vokabeln>
       <Vorschau>サ (sa) シ (shi) ス (su) セ (se) ソ (so)</Vorschau>
