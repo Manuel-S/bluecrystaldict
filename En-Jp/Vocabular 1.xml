@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-16"?>
 <Lektion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Sprachen>
     <string>Kana</string>
@@ -3383,6 +3383,9 @@
               <TeilVokabel>
                 <Schreibweise>then</Schreibweise>
               </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>also</Schreibweise>
+              </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
@@ -3425,6 +3428,9 @@
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>morning</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>a.m.</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -3560,12 +3566,12 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>もある</Schreibweise>
+                <Schreibweise>もらう</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>moaru</Schreibweise>
+                <Schreibweise>morau</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
@@ -3644,6 +3650,9 @@
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>はじめる</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>はじまる</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
@@ -3771,10 +3780,16 @@
               <TeilVokabel>
                 <Schreibweise>かろやか</Schreibweise>
               </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>かんたん</Schreibweise>
+              </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>karoyaka</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>kantan</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
@@ -3812,7 +3827,7 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>ビイル</Schreibweise>
+                <Schreibweise>ビール</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
@@ -3862,31 +3877,11 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>to write</Schreibweise>
+                <Schreibweise>letter</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
-          <Bemerkung />
-        </Vokabel>
-        <Vokabel>
-          <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise />
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise />
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise />
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-          </Sprachen>
-          <Bemerkung />
+          <Bemerkung>as in: I sent a letter to my friend</Bemerkung>
         </Vokabel>
         <Vokabel>
           <Sprachen>
@@ -3902,7 +3897,10 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>to breathe</Schreibweise>
+                <Schreibweise>to breathe in</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>to smoke</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -3943,26 +3941,6 @@
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>bag</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-          </Sprachen>
-          <Bemerkung />
-        </Vokabel>
-        <Vokabel>
-          <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise />
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise />
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise />
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -4133,9 +4111,15 @@
               <TeilVokabel>
                 <Schreibweise>human body</Schreibweise>
               </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>pupil</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>eye</Schreibweise>
+              </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
-          <Bemerkung />
+          <Bemerkung>the pupil of the eye</Bemerkung>
         </Vokabel>
         <Vokabel>
           <Sprachen>
@@ -4191,7 +4175,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>train</Schreibweise>
+                <Schreibweise>bullet train</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -4363,7 +4347,7 @@
                 <Schreibweise>flame</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
-                <Schreibweise>spoon</Schreibweise>
+                <Schreibweise>fire</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -4391,6 +4375,46 @@
             </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>でんしゃ</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>densha</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>train</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung>electric train</Bemerkung>
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>れっしゃ</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ressha</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>train</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung>non electric trains, e.g. steam powered</Bemerkung>
         </Vokabel>
       </Vokabeln>
       <Vorschau>Misc 5</Vorschau>
