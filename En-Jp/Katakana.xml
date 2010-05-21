@@ -409,71 +409,6 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>チャ</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>cha</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-          </Sprachen>
-          <Bemerkung />
-        </Vokabel>
-        <Vokabel>
-          <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>チュ</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>chu</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-          </Sprachen>
-          <Bemerkung />
-        </Vokabel>
-        <Vokabel>
-          <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>チェ</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>che</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-          </Sprachen>
-          <Bemerkung />
-        </Vokabel>
-        <Vokabel>
-          <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>チョ</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>cho</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-          </Sprachen>
-          <Bemerkung />
-        </Vokabel>
-      </Vokabeln>
-      <Vorschau>チャ (cha)  チュ (chu)  チェ (che)  チョ (cho)</Vorschau>
-    </Kartei>
-    <Kartei>
-      <Vokabeln>
-        <Vokabel>
-          <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
                 <Schreibweise>は</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
@@ -1240,6 +1175,71 @@
         </Vokabel>
       </Vokabeln>
       <Vorschau>パ (pa) ピ (pi) プ (pu) ペ (pe) ポ (po)</Vorschau>
+    </Kartei>
+    <Kartei>
+      <Vokabeln>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>チャ</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>cha</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>チュ</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>chu</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>チェ</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>che</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>チョ</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>cho</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+      </Vokabeln>
+      <Vorschau>チャ (cha)  チュ (chu)  チェ (che)  チョ (cho)</Vorschau>
     </Kartei>
     <Kartei>
       <Vokabeln>
