@@ -12,7 +12,7 @@
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>なにですか</Schreibweise>
-                <BildUri>.\Data\Images\Question\1 umbrella.jpg</BildUri>
+                <BildUri>Question\1 umbrella.jpg</BildUri>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
@@ -31,7 +31,7 @@
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>なにですか</Schreibweise>
-                <BildUri>.\Data\Images\Question\hat.jpg</BildUri>
+                <BildUri>Question\hat.jpg</BildUri>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
@@ -50,7 +50,7 @@
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>なんにんですか</Schreibweise>
-                <BildUri>.\Data\Images\Question\2 men 1 book.jpg</BildUri>
+                <BildUri>Question\2 men 1 book.jpg</BildUri>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
@@ -69,7 +69,7 @@
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>ここはなにがいますか</Schreibweise>
-                <BildUri>.\Data\Images\Question\2 umbrellas.jpg</BildUri>
+                <BildUri>Question\2 umbrellas.jpg</BildUri>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
@@ -94,7 +94,7 @@
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>ここにはなんのどうぶつがみえますか</Schreibweise>
-                <BildUri>.\Data\Images\Question\3 horses.jpg</BildUri>
+                <BildUri>Question\3 horses.jpg</BildUri>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
