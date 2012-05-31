@@ -985,6 +985,156 @@
           </Sprachen>
           <Bemerkung />
         </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Rucksack</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>рюкзак</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Tisch</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>стол</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Stuhl</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>стул</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Fenster</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>окно</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Tafel</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>доска</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Kreide</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>мел</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Tasche</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>сумка</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Buch</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>кнйга</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Bleistift</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>карандаш</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Filzstift</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>фломастер</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
       </Vokabeln>
       <Vorschau>C4</Vorschau>
     </Kartei>
