@@ -1297,12 +1297,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>дай</Schreibweise>
+                <Schreibweise>gib</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>gib mir</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>gib</Schreibweise>
+                <Schreibweise>дай</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>gib mir</Schreibweise>
@@ -1315,12 +1318,12 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>мне</Schreibweise>
+                <Schreibweise>mir</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>mir</Schreibweise>
+                <Schreibweise>мне</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -1328,16 +1331,16 @@
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>письмо</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>Brief</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>письмо</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
@@ -1345,12 +1348,18 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>вот</Schreibweise>
+                <Schreibweise>da</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>da ist</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>da sind</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>da</Schreibweise>
+                <Schreibweise>вот</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>da ist</Schreibweise>
@@ -1366,12 +1375,12 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>газета</Schreibweise>
+                <Schreibweise>Zeitung</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>Zeitung</Schreibweise>
+                <Schreibweise>газета</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -1379,16 +1388,16 @@
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>тоже</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>auch</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>тоже</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
@@ -1396,12 +1405,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>ноль</Schreibweise>
+                <Schreibweise>null</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>0</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>null</Schreibweise>
+                <Schreibweise>ноль</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>0</Schreibweise>
@@ -1414,12 +1426,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>один</Schreibweise>
+                <Schreibweise>eins</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>1</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>eins</Schreibweise>
+                <Schreibweise>один</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>1</Schreibweise>
@@ -1432,12 +1447,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>два</Schreibweise>
+                <Schreibweise>zwei</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>2</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>zwei</Schreibweise>
+                <Schreibweise>два</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>2</Schreibweise>
@@ -1450,12 +1468,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>трн</Schreibweise>
+                <Schreibweise>drei</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>3</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>drei</Schreibweise>
+                <Schreibweise>трн</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>3</Schreibweise>
@@ -1468,12 +1489,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>четыре</Schreibweise>
+                <Schreibweise>vier</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>4</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>vier</Schreibweise>
+                <Schreibweise>четыре</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>4</Schreibweise>
@@ -1486,12 +1510,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>пять</Schreibweise>
+                <Schreibweise>fünf</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>5</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>fünf</Schreibweise>
+                <Schreibweise>пять</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>5</Schreibweise>
@@ -1504,12 +1531,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>шесть</Schreibweise>
+                <Schreibweise>sechs</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>6</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>sechs</Schreibweise>
+                <Schreibweise>шесть</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>6</Schreibweise>
@@ -1522,12 +1552,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>семь</Schreibweise>
+                <Schreibweise>sieben</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>7</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>sieben</Schreibweise>
+                <Schreibweise>семь</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>7</Schreibweise>
@@ -1540,12 +1573,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>восемь</Schreibweise>
+                <Schreibweise>acht</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>8</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>acht</Schreibweise>
+                <Schreibweise>восемь</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>8</Schreibweise>
@@ -1558,12 +1594,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>девять</Schreibweise>
+                <Schreibweise>neun</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>9</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>neun</Schreibweise>
+                <Schreibweise>девять</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>9</Schreibweise>
@@ -1576,12 +1615,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>десять</Schreibweise>
+                <Schreibweise>zehn</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>10</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>zehn</Schreibweise>
+                <Schreibweise>десять</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>10</Schreibweise>
@@ -1594,12 +1636,12 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>плюс</Schreibweise>
+                <Schreibweise>plus</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>plus</Schreibweise>
+                <Schreibweise>плюс</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -1607,16 +1649,16 @@
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>минус</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>minus</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>минус</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
@@ -1624,12 +1666,12 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>номер</Schreibweise>
+                <Schreibweise>Nummer</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>Nummer</Schreibweise>
+                <Schreibweise>номер</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -1644,12 +1686,12 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>учитель</Schreibweise>
+                <Schreibweise>Lehrer</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>Lehrer</Schreibweise>
+                <Schreibweise>учитель</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -1657,16 +1699,16 @@
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>учительница</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>Lehrerin</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>учительница</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
@@ -1674,12 +1716,12 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>Здравствуйте</Schreibweise>
+                <Schreibweise>Guten Tag</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>Guten Tag</Schreibweise>
+                <Schreibweise>Здравствуйте</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -1689,12 +1731,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>ребята</Schreibweise>
+                <Schreibweise>Kinder</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Jugendliche</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>Kinder</Schreibweise>
+                <Schreibweise>ребята</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>Jugendliche</Schreibweise>
@@ -1707,33 +1752,25 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>ваш</Schreibweise>
-              </TeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>ваша</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
                 <Schreibweise>euer</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>euere</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ваш</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ваша</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>ваша</Schreibweise>
-              </TeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>наша</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>euere</Schreibweise>
@@ -1742,141 +1779,149 @@
                 <Schreibweise>unsere</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ваша</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>наша</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>наш</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>unser</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>наш</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>наша</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>unsere</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>наша</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>новый</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>neu</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>новый</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>русский</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>Russe</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>русский</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>русская</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>Russin</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>русская</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>сколько</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>wie viel</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>сколько</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>тебе</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>dir</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>тебе</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>сколько тебе лет</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>Wie alt bist du?</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>сколько тебе лет?</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>мне ... лет.</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>Ich bin ... Jahre alt.</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>мне ... лет.</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
@@ -1884,12 +1929,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>одинадцать</Schreibweise>
+                <Schreibweise>elf</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>11</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>elf</Schreibweise>
+                <Schreibweise>одинадцать</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>11</Schreibweise>
@@ -1902,12 +1950,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>двенадцать</Schreibweise>
+                <Schreibweise>zwölf</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>12</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>zwölf</Schreibweise>
+                <Schreibweise>двенадцать</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>12</Schreibweise>
@@ -1920,12 +1971,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>тринадцать</Schreibweise>
+                <Schreibweise>dreizehn</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>13</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>dreizehn</Schreibweise>
+                <Schreibweise>тринадцать</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>13</Schreibweise>
@@ -1938,12 +1992,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>четырнадцать</Schreibweise>
+                <Schreibweise>vierzehn</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>14</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>vierzehn</Schreibweise>
+                <Schreibweise>четырнадцать</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>14</Schreibweise>
@@ -1956,12 +2013,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>пятнадцать</Schreibweise>
+                <Schreibweise>fünfzehn</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>15</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>fünfzehn</Schreibweise>
+                <Schreibweise>пятнадцать</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>15</Schreibweise>
@@ -1974,12 +2034,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>шестнадцать</Schreibweise>
+                <Schreibweise>sechzehn</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>16</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>sechzehn</Schreibweise>
+                <Schreibweise>шестнадцать</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>16</Schreibweise>
@@ -1992,12 +2055,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>семнадцать</Schreibweise>
+                <Schreibweise>siebzehn</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>17</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>siebzehn</Schreibweise>
+                <Schreibweise>семнадцать</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>17</Schreibweise>
@@ -2010,12 +2076,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>восемнадцать</Schreibweise>
+                <Schreibweise>achtzehn</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>18</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>achtzehn</Schreibweise>
+                <Schreibweise>восемнадцать</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>18</Schreibweise>
@@ -2028,12 +2097,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>девятнадцать</Schreibweise>
+                <Schreibweise>neunzehn</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>19</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>neunzehn</Schreibweise>
+                <Schreibweise>девятнадцать</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>19</Schreibweise>
@@ -2046,12 +2118,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>двадцать</Schreibweise>
+                <Schreibweise>zwanzig</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>20</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>zwanzig</Schreibweise>
+                <Schreibweise>двадцать</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>20</Schreibweise>
@@ -2064,12 +2139,12 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>центр</Schreibweise>
+                <Schreibweise>Zentrum</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>Zentrum</Schreibweise>
+                <Schreibweise>центр</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2077,46 +2152,47 @@
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>цирк</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>Zirkus</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>цирк</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung />
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>господин</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>Herr</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>господин</Schreibweise>
+                <AudioUri>C:\Users\Deekay\AppData\Roaming\BlueCrystal\Data\Voice\Russian\mg5dz5nvh0g1hrm1.wav</AudioUri>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung>Anrede</Bemerkung>
         </Vokabel>
         <Vokabel>
           <Sprachen>
-            <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>госпожа</Schreibweise>
-              </TeilVokabel>
-            </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
                 <Schreibweise>Frau</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>госпожа</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
           </Sprachen>
           <Bemerkung>Anrede</Bemerkung>
         </Vokabel>
@@ -2124,12 +2200,12 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>немец</Schreibweise>
+                <Schreibweise>Deutscher</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>Deutscher</Schreibweise>
+                <Schreibweise>немец</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2139,12 +2215,12 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>немка</Schreibweise>
+                <Schreibweise>Deutsche</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>Deutsche</Schreibweise>
+                <Schreibweise>немка</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2152,6 +2228,377 @@
         </Vokabel>
       </Vokabeln>
       <Vorschau>C6</Vorschau>
+    </Kartei>
+    <Kartei>
+      <Vokabeln>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Russland</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Deutschland</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>woher?</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>woher</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>aus Russland</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>aus Deutschland</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>sprechen</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>deutsch</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>auf Deutsch</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>etwas</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ein wenig</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>noch</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>schlecht</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>russisch</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>auf Russisch</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>sehr</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>gut</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Hockey</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Eishockey</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>England</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>aus England</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>englisch</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>auf Englisch</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Frankreich</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>aus Frankreich</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>französisch</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>auf Französisch</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>nicht</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ihr</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>ihm</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise />
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+      </Vokabeln>
+      <Vorschau>C7</Vorschau>
     </Kartei>
   </Karteien>
   <NichtAkzeptierteSprachen />
