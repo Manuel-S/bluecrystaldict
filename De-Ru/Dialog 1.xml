@@ -2240,7 +2240,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>Россия</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2255,7 +2255,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>Германия</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2265,7 +2265,7 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>woher?</Schreibweise>
+                <Schreibweise>woher</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>woher</Schreibweise>
@@ -2273,7 +2273,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>откуда</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2288,7 +2288,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>из России</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2303,7 +2303,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>из Германии</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2318,7 +2318,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>говорить</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2327,16 +2327,19 @@
         <Vokabel>
           <Sprachen>
             <ArrayOfTeilVokabel>
-              <TeilVokabel>
-                <Schreibweise>deutsch</Schreibweise>
-              </TeilVokabel>
               <TeilVokabel>
                 <Schreibweise>auf Deutsch</Schreibweise>
               </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>deutsch</Schreibweise>
+              </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>по немецки</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>по-немецки</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2346,15 +2349,15 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>etwas</Schreibweise>
+                <Schreibweise>ein wenig</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
-                <Schreibweise>ein wenig</Schreibweise>
+                <Schreibweise>etwas</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>немного</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2366,10 +2369,13 @@
               <TeilVokabel>
                 <Schreibweise>noch</Schreibweise>
               </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>noch mehr</Schreibweise>
+              </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>ещё</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2384,7 +2390,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>плохо</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2394,15 +2400,18 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>russisch</Schreibweise>
+                <Schreibweise>auf Russisch</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
-                <Schreibweise>auf Russisch</Schreibweise>
+                <Schreibweise>russisch</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>по русски</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>по-русски</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2417,7 +2426,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>очень</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2432,7 +2441,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>хорошо</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2450,7 +2459,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>хоккей</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2465,7 +2474,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>Англия</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2480,7 +2489,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>из Англии</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2490,15 +2499,18 @@
           <Sprachen>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise>englisch</Schreibweise>
+                <Schreibweise>auf Englisch</Schreibweise>
               </TeilVokabel>
               <TeilVokabel>
-                <Schreibweise>auf Englisch</Schreibweise>
+                <Schreibweise>englisch</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>по английски</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>по-английски</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2513,7 +2525,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>Франция</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2528,7 +2540,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>из франции</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2546,7 +2558,10 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>по французски</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>по-французски</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2561,7 +2576,7 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>не</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
@@ -2576,11 +2591,11 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>ей</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
-          <Bemerkung />
+          <Bemerkung>weiblich</Bemerkung>
         </Vokabel>
         <Vokabel>
           <Sprachen>
@@ -2591,11 +2606,11 @@
             </ArrayOfTeilVokabel>
             <ArrayOfTeilVokabel>
               <TeilVokabel>
-                <Schreibweise />
+                <Schreibweise>ему</Schreibweise>
               </TeilVokabel>
             </ArrayOfTeilVokabel>
           </Sprachen>
-          <Bemerkung />
+          <Bemerkung>männlich</Bemerkung>
         </Vokabel>
       </Vokabeln>
       <Vorschau>C7</Vorschau>
