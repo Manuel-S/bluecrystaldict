@@ -2615,6 +2615,97 @@
       </Vokabeln>
       <Vorschau>C7</Vorschau>
     </Kartei>
+    <Kartei>
+      <Vokabeln>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Bruder</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>брат</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Schwester</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>сестра</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Freundin</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>подруга</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>Freund</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>друг</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+      </Vokabeln>
+      <Vorschau>C8</Vorschau>
+    </Kartei>
+    <Kartei>
+      <Vokabeln>
+        <Vokabel>
+          <Sprachen>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>lieben</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>gern haben</Schreibweise>
+              </TeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>mögen</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+            <ArrayOfTeilVokabel>
+              <TeilVokabel>
+                <Schreibweise>любить</Schreibweise>
+              </TeilVokabel>
+            </ArrayOfTeilVokabel>
+          </Sprachen>
+          <Bemerkung />
+        </Vokabel>
+      </Vokabeln>
+      <Vorschau>1A</Vorschau>
+    </Kartei>
   </Karteien>
   <NichtAkzeptierteSprachen />
   <Name>Dialog 1</Name>
