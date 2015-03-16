@@ -1,0 +1,1 @@
+Blue Crystal is a simple, yet rich language learning tool. It is free to use and still in development. Using SVN, users will be able to contribute to the dictionary and lesson files.
